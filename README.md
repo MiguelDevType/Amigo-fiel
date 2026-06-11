@@ -116,7 +116,7 @@ projeto-amigo-fiel/
 ## 🌐 Deploy
 
 O projeto está hospedado na **Vercel**:  
-🔗 [amigo-fiel.vercel.app]([https://amigo-fiel-efo8.vercel.app/contact)
+🔗  amigo-fiel-efo8.vercel.app
 
 ---
 
