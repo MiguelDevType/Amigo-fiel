@@ -122,13 +122,10 @@ O projeto está hospedado na **Vercel**:
 
 ## 👨‍💻 Desenvolvido por
 
-**Miguel Lucena**
-**Pietro Toledo**
-**João Guilherme**
-**Nathan Rodrigues**
-**Enrico**
-**Rodrigo**
-**Arthur Miranda**
+**Miguel Lucena**,
+**Pietro Toledo**,
+**João Guilherme**,
+**Enrico**.
 
 
 ---
