@@ -9,7 +9,7 @@ import { useAuth } from '../context/AuthContext';
 type Tab = 'user' | 'admin';
 type UserMode = 'login' | 'register' | 'forgot';
 
-const ADMIN_CREDENTIALS = { email: 'admin.gmail.com@teste', password: 'admin123' };
+const ADMIN_CREDENTIALS = { email: 'admin@amigofiel.com', password: 'admin123' };
 const ONG_CREDENTIALS   = { email: 'ong@amigofiel.com',     password: 'ong123'   };
 
 // ─── tiny helpers ────────────────────────────────────────────────────────────
