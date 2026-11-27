@@ -4,8 +4,6 @@ Plataforma web que conecta animais abandonados a famílias dispostas a adotar, e
 
 **Demo:** [amigo-fiel-efo8.vercel.app](https://amigo-fiel-efo8.vercel.app)
 
-![Tela inicial do Amigo Fiel](docs/img/home.png)
-
 ## Problema e objetivo
 
 **Problema:** muitos animais em abrigos e ONGs têm pouca visibilidade, e o processo de adoção costuma ser informal e difícil de acompanhar.
@@ -32,16 +30,16 @@ Plataforma web que conecta animais abandonados a famílias dispostas a adotar, e
 
 ## Minha contribuição
 
-Projeto em equipe: Miguel Lucena, Pietro Toledo, João Guilherme e Enrico.
+Eu (Miguel Lucena) fiz todo o desenvolvimento do projeto:
 
-Minha parte foi:
+- Planejamento e estrutura da aplicação
+- Todas as páginas e componentes (catálogo, filtros, detalhe do pet, formulário de adoção, login, painel administrativo e landing page)
+- Contexto de autenticação e dados fictícios
+- Estilização responsiva com Tailwind CSS
+- Deploy na Vercel
+- Organização do repositório e documentação
 
-- [Ex.: desenvolvi as páginas de listagem e detalhe dos pets]
-- [Ex.: implementei os filtros de busca]
-- [Ex.: configurei o deploy na Vercel]
-- [Ex.: organizei o repositório e a documentação]
-
-> Substitua os itens acima pelo que você realmente fez. Esse é um dos pontos que a atividade avalia.
+João Guilherme participou da equipe do projeto acadêmico.
 
 ## Ferramentas e métodos
 
@@ -83,15 +81,9 @@ Usuários comuns podem se cadastrar na tela de login.
 
 ## Evidências
 
-Adicione imagens na pasta `docs/img/` e referencie aqui:
+Demo online: [amigo-fiel-efo8.vercel.app](https://amigo-fiel-efo8.vercel.app)
 
-| Tela | Imagem |
-|---|---|
-| Catálogo com filtros | ![Catálogo](docs/img/catalogo.png) |
-| Detalhe do pet | ![Detalhe](docs/img/detalhe.png) |
-| Dashboard do administrador | ![Dashboard](docs/img/dashboard.png) |
-
-Também vale linkar a demo online e, se houver, testes manuais ou automatizados.
+(Adicione aqui prints das telas principais: catálogo, detalhe do pet e dashboard.)
 
 ## Estrutura do projeto
 
@@ -113,9 +105,9 @@ projeto-amigo-fiel/
 ## Aprendizados e limitações
 
 **O que aprendi**
-- [Ex.: organizar um projeto React com TypeScript e rotas]
-- [Ex.: trabalhar em equipe com Git e GitHub]
-- [Ex.: publicar uma aplicação na Vercel]
+- Organizar um projeto React com TypeScript e rotas
+- Trabalhar com Git e GitHub
+- Publicar uma aplicação na Vercel
 
 **Limitações atuais**
 - Os dados são mockados, sem back-end nem banco de dados
@@ -133,17 +125,16 @@ projeto-amigo-fiel/
 ## Referências e créditos
 
 - [React](https://react.dev), [Vite](https://vitejs.dev), [Tailwind CSS](https://tailwindcss.com), [Lucide](https://lucide.dev)
-- [Fontes das imagens dos pets: preencher]
 
 ## Autores
 
 - [Miguel Lucena](https://github.com/MiguelDevType)
-- Pietro Toledo: [link do GitHub]
-- João Guilherme: [link do GitHub]
-- Enrico: [link do GitHub]
+- Pietro Toledo
+- João Guilherme
+- Enrico
 
-Projeto acadêmico, UNIPÊ, [disciplina e semestre].
+Projeto acadêmico, UNIPÊ.
 
 ## Licença
 
-[Escolha uma licença, por exemplo MIT, e adicione o arquivo LICENSE.]
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
